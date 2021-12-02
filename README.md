@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaskaran</h1>
 
-- 🌱 I’m currently learning **Andriod Development and PHP**
+- 🌱 I’m currently learning **Andriod Development and Web Development**
 
 - 👯 I’m looking to collaborate on **any intermediate projects**
 
