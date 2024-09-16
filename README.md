@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaskaran</h1>
 
-- 🌱 I’m currently interested in **Andriod Development** projects.
-
-- 👯 I’m looking to collaborate on **any intermediate projects**
-
 - 💬 Ask me about **Java and Python**
 
 - 📫 How to reach me **jaskaran1815@gmail.com**
